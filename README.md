@@ -1,5 +1,5 @@
 # motorino
-Basic 2d physic engine written in with:
+Basic 2d physic engine written in C with:
 
  * Collision detection support
  * Gravity support
